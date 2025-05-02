@@ -1,6 +1,6 @@
-# React Workshop: Building a Shopping List Application
+# React Workshop: Building a Hackathon To-Do List Application
 
-Welcome to the React Workshop! In this workshop, we will build a simple shopping list 🛒 application using React. This README will guide you through the setup and provide an overview of the project structure.
+Welcome to the React Workshop! In this workshop, we will build a simple hackathon to-do list 📝 application using React. This README will guide you through the setup and provide an overview of the project structure.
 
 ## Project Structure
 
@@ -25,7 +25,7 @@ Make sure you have the following installed on your machine:
     ```
 2. Navigate to the project directory:
     ```bash
-    cd shopping-list
+    cd hackathon-to-do
     ```
 3. Install the dependencies:
     ```bash
